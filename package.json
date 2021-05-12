@@ -5,7 +5,7 @@
   "dependencies": {
     "@progress/kendo-drawing": "^1.5.12",
     "@progress/kendo-react-pdf": "^3.3.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "html2canvas": "^1.0.0-rc.3",
     "jspdf": "^1.5.3",
     "react": "^16.9.0",
